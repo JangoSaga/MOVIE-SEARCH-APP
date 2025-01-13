@@ -15,13 +15,13 @@ The **Movie Search app** is an user friendly responsive web app useful for searc
 ### **Tech Stack Used**  
 - **Frontend Framework:** React.js  
 - **Styling:** Styled Components
-- **API Used:**
+- **API Used:** OMDB API
 ---
 
 ## **Key Features**  
 - Fully **Responsive Design**  
-- Highly **User-Friendly Interface**  
-- 
+- Highly **User-Friendly Interface**
+- Watchlist feature allows to bookmark the film.
 ---
 
 ## **Output**  
